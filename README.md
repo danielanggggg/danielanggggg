@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielanggggg
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - ang.daniel06@gmail.com
 
